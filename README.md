@@ -2,7 +2,7 @@
 
 ## what
 - a slightly modified Microsoft SQL Server docker image
-    - modified to allow execution on a machine with less than 2 GiB of physical memory
+    - modified to allow execution on a machine with less than 6 GiB of physical memory
 
 ## why
 - Microsoft's sqlservr, at startup, looks to see how much physical memory its host has
